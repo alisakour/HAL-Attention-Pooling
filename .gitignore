@@ -1,0 +1,5 @@
+.config/
+sample_data/
+__pycache__/
+*.pth
+.ipynb_checkpoints/
